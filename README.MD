@@ -27,6 +27,7 @@ JUnit
 #### Resources
 
 Levenshtein Distance Implementation: https://www.baeldung.com/java-levenshtein-distance
+
 Remove adjacent duplicates https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
 
 #### Author
