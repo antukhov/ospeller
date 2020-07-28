@@ -1,4 +1,4 @@
-### Oracle English Word Spell Auto Correction
+### English Word Spell Auto Correction
 
 #### Architecture
 
@@ -32,4 +32,4 @@ Remove adjacent duplicates https://www.geeksforgeeks.org/recursively-remove-adja
 
 #### Author
 
-Aleksandr Antukhov
+Alex Antukhov
